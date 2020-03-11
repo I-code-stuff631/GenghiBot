@@ -1,0 +1,11 @@
+{
+  "name": "genghibot",
+  "version": "1.6.9",
+  "description": "69420fyeh",
+  "main": "GenghiBotMC.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Genghius Himself DUH",
+  "license": "ISC"
+}
